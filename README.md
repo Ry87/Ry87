@@ -7,7 +7,7 @@ This is my current activities on Github...
 
 [![](https://raw.githubusercontent.com/Ry87/Ry87/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/Ry87/Ry87/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ry87/Ry87/master/profile-summary-card-output/monokai/2-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
